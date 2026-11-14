@@ -4,11 +4,6 @@
        alt="Starvald D'Labs"
        width="100%">
 </p>
-
-# Starvald D'Labs
-
-### Where Worlds Begin.
-
 Independent Software Engineering & Research
 
 ---
